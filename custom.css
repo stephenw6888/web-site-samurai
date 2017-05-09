@@ -1,6 +1,10 @@
  .jumbotron {
      padding: 200px
  }
+
+ #myCarousel {
+     padding: 100px;
+ }
  
  @media only screen and (min-width: 768px) {
     h1 {
