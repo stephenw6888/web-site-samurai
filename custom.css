@@ -30,6 +30,18 @@
          text-align: center;
      }
      
+     #battles{
+      padding-top: 100px;
+     }
+     #myCarousel {
+     padding: 100px;
+     width: 80%;
+    min-width: 760px;
+    padding-top: 0;
+    margin: 0 auto; 
+ }
+     
+     
          
      }
  
@@ -51,6 +63,17 @@
      .timeline {
          text-align: center;
      }
+     
+     #battles{
+      padding-top: 50px;
+     }
+     #myCarousel {
+     padding: 100px;
+     width: 80%;
+    min-width: 760px;
+    padding-top: 0;
+    margin: 0 auto; 
+ }
      
      
  }
@@ -76,6 +99,17 @@
      .timeline {
          text-align: center;
      }
+     #battles{
+      padding-top: 50px;
+     }
+     #myCarousel {
+     padding: 100px;
+     width: 80%;
+    min-width: 760px;
+    padding-top: 0;
+    margin: 0 auto; 
+ }
+     
      
  }
  
