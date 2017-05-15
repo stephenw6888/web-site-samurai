@@ -11,6 +11,39 @@
 
  }
 
+ @media only screen and (min-width: 375px) {
+  h1 {
+   font-size: 30px;
+  }
+  .section h1 {
+   font-size: 40px;
+  }
+  .trivia {
+   text-align: center;
+  }
+  .battles {
+   text-align: center;
+  }
+  .pictures {
+   text-align: center;
+  }
+  .timeline {
+   text-align: center;
+  }
+  #contact {
+   text-align: center;
+  }
+  #battles {
+   padding-top: 100px;
+  }
+  #myCarousel {
+   padding: 100px;
+   width: 80%;
+   min-width: 760px;
+   padding-top: 0;
+   margin: 0 auto;
+  }
+ }
  
  @media only screen and (min-width: 768px) {
   h1 {
