@@ -3,9 +3,9 @@
  }
  
  #myCarousel {
-  padding: 100px;
+  padding: 20px;
   width: 80%;
-  min-width: 760px;
+  min-width: 50px;
   padding-top: 0;
   margin: 0 auto;
  }
@@ -39,9 +39,9 @@
    padding-top: 100px;
   }
   #myCarousel {
-   padding: 100px;
+   padding: 40px;
    width: 80%;
-   min-width: 760px;
+   min-width: 100px;
    padding-top: 0;
    margin: 0 auto;
   }
@@ -76,9 +76,9 @@
    padding-top: 100px;
   }
   #myCarousel {
-   padding: 100px;
+   padding: 60px;
    width: 80%;
-   min-width: 760px;
+   min-width: 300px;
    padding-top: 0;
    margin: 0 auto;
   }
@@ -108,9 +108,9 @@
    padding-top: 50px;
   }
   #myCarousel {
-   padding: 100px;
+   padding: 80px;
    width: 80%;
-   min-width: 760px;
+   min-width: 500px;
    padding-top: 0;
    margin: 0 auto;
   }
