@@ -39,7 +39,14 @@
    margin: 0 auto;
    font-size: 9px;
   }
-  
+  #myCarousel1 {
+   padding: 40px;
+   max-width: 80%;
+   min-width: 100px;
+   padding-top: 0;
+   margin: 0 auto;
+   font-size: 9px;
+  }
   .continer{
   padding:200px;
  }
@@ -81,6 +88,14 @@
    margin: 0 auto;
    font-size: 12px;
   }
+  #myCarousel1 {
+   padding: 40px;
+   max-width: 80%;
+   min-width: 100px;
+   padding-top: 0;
+   margin: 0 auto;
+   font-size: 9px;
+  }
  }
  /*medium & up*/
  
@@ -121,6 +136,14 @@
   .continer{
   padding:200px;
  }
+ #myCarousel1 {
+   padding: 40px;
+   max-width: 80%;
+   min-width: 100px;
+   padding-top: 0;
+   margin: 0 auto;
+   font-size: 9px;
+  }
  }
  /*large & up*/
  
@@ -158,6 +181,16 @@
    margin: 0 auto;
    font-size: 16px;
   }
+  #myCarousel1 {
+   padding: 40px;
+   max-width: 80%;
+   min-width: 100px;
+   padding-top: 0;
+   margin: 0 auto;
+   font-size: 9px;
+   height: 255px;
+   max-height: 255px;
+  }
   #contact {
    text-align: center;
   }
@@ -179,3 +212,4 @@
  .continer{
   padding:200px;
  }
+ 
